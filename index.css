@@ -34,6 +34,13 @@ main .carousel-inner img {
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
 }
+#place-time {
+    background-color: #212529;
+    color: white;
+}
+#place-time img {
+    max-width: 100%;
+}
 
 
 #footer {
